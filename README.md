@@ -1,6 +1,6 @@
 # Numeral-decomposer-1.0
 
-We present a performance analysis of the numeral decomposer.\\
+We present a performance analysis of the numeral decomposer.\n
 From the languages accessible in https://www.languagesandnumbers.com/site-map/en/ we parsed all numerals up to 1000, and from the languages accesible in https://pypi.org/project/num2words/ we parsed numerals up to 1000 and a sample of numerals up to 27206.\\
 For each language we display the quantity of different functions found and the quantity of irreducible numerals, i.e. numerals that could not be decomposed. The sum of these numbers is the size of a possible lexicon that could generate all the included numerals of the respective language. The languages from num2words are listed first and are only named as 2-letter-abbreviations (e.g. cz=Czech). Below, the Languages&Numbers-languages are listed with their full English term.\\
 Below the quantities we present each found funtions by displaying 3 properties of it:\\
