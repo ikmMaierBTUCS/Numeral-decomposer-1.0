@@ -8,6 +8,6 @@ For each language we display the quantity of different functions found and the q
 
 Below the quantities we present each found funtions by displaying 3 properties of it:
 
-1) Its string function: The \_s in the string represent the input slots of the function, e.g. putting (six,two) into \_ty-\_ gives sixty-two
+1) Its string function: The '\_'s in the string represent the input slots of the function, e.g. putting (six,two) into \_ty-\_ gives sixty-two
 2) Its number function in format: coefficient-vector*x+constant. x represents a vector of variables with the same size as coefficient-vector. E.g. the function \_ty-\_ would have the number function [10,1]x+0, so a possible input x would also have to be a vector of size 2, as [6,2] is. OTOH the function \_teen with the number function [1]x+10 would only accept single numbers as inputs.
 3) An example of a generated numeral with its number. Wording: e.g. sixty-one is 61.
