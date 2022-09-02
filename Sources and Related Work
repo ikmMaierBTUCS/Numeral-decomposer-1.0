@@ -1,1 +1,25 @@
+Literature:
+ {\rtf \li720 \fi-720 \sl240 \slmult1 \sa0 
+Anderson, Curt. \uc0\u8220{}Numerical Approximation Using Some,\uc0\u8221{} n.d., 17.\
+Beim Graben, Peter, Werner Meyer, Ronald R\uc0\u246{}mer, and Matthias Wolff. {\i{}Bidirektionale Utterance-Meaning-Transducer F\uc0\u252{}r Zahlworte Durch Kompositionale Minimalistische Grammatiken}, 2019.\
+Flach, G., M. Holzapfel, C. Just, A. Wachtler, and M. Wolff. \uc0\u8220{}Automatic Learning of Numeral Grammars for Multi-Lingual Speech Synthesizers.\uc0\u8221{} In {\i{}2000 IEEE International Conference on Acoustics, Speech, and Signal Processing. Proceedings (Cat. No.00CH37100)}, 3:1291\uc0\u8211{}94 vol.3, 2000. https://doi.org/10.1109/ICASSP.2000.861814.\
+Graben, Peter beim, Ronald R\uc0\u246{}mer, Werner Meyer, Markus Huber, and Matthias Wolff. \uc0\u8220{}Reinforcement Learning of Minimalist Numeral Grammars.\uc0\u8221{} In {\i{}2019 10th IEEE International Conference on Cognitive Infocommunications (CogInfoCom)}, 67\uc0\u8211{}72, 2019. https://doi.org/10.1109/CogInfoCom47531.2019.9089924.\
+Hammarstr\uc0\u246{}m, Harald. \uc0\u8220{}Deduction of Numeral Grammars,\uc0\u8221{} January 1, 2008. https://www.academia.edu/3142323/Deduction_of_Numeral_Grammars.\
+Hurford, James R. \uc0\u8220{}A Performed Practice Explains a Linguistic Universal: Counting Gives the Packing Strategy.\uc0\u8221{} {\i{}Lingua}, Linguistic perspectives on numerical expressions, 117, no. 5 (May 1, 2007): 773\uc0\u8211{}83. https://doi.org/10.1016/j.lingua.2006.03.002.\
+\uc0\u8212{}\uc0\u8212{}\uc0\u8212{}. {\i{}The Linguistic Theory of Numerals}. Cambridge University Press, 2011.\
+Ionin, T., and O. Matushansky. \uc0\u8220{}The Composition of Complex Cardinals.\uc0\u8221{} {\i{}Journal of Semantics} 23, no. 4 (July 17, 2006): 315\uc0\u8211{}60. https://doi.org/10.1093/jos/ffl006.\
+Mendia, Jon. \uc0\u8220{}Epistemic Numbers.\uc0\u8221{} {\i{}Semantics and Linguistic Theory} 28 (November 27, 2018): 493. https://doi.org/10.3765/salt.v28i0.4433.\
+Sciullo, Anna Maria Di. \uc0\u8220{}Asymmetry in Complex Numerals,\uc0\u8221{} n.d., 60.\
+Sproat, Richard. \uc0\u8220{}Boring Problems Are Sometimes the Most Interesting.\uc0\u8221{} {\i{}Computational Linguistics} 48, no. 2 (June 9, 2022): 483\uc0\u8211{}90. https://doi.org/10.1162/coli_a_00439.\
+\uc0\u8220{}Unsupervised Learning of Natural Languages.\uc0\u8221{} Accessed June 27, 2022. https://doi.org/10.1073/pnas.0409746102.\
+Zabbal, Youri. \uc0\u8220{}The Syntax of Numeral Expressions,\uc0\u8221{} n.d., 67.\
+}
 
+Numeral Data:
+num2words, see pypi.org/project/num2words/
+www.languagesandnumbers.com
+
+Special tools for implementations:
+pypi.org/project/Diophantine/ 
+- more information in Extended GCD and Hermite Normal Form, Algorithms via Lattice Basis Reduction, George Havas, Bohdan S. Majewski, and Keith R. Matthews
+pypi.org/project/alphabet-detector/
