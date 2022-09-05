@@ -16,6 +16,7 @@ Below the quantities we present each found funtions by displaying 3 properties o
 
 cz has 17 number functions and 20 irreducible numbers.
 The number functions are:
+
 | Stem | Mapping | Example |
 | --- | --- | --- |
 |_náct:	 |x -> [1]*x+10, 	 |e.g. dvanáct is 12|
