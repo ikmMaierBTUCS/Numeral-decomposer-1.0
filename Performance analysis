@@ -16,6 +16,7 @@ Below the quantities we present each found funtions by displaying 3 properties o
 
 cz has 17 number functions and 20 irreducible numbers.
 The number functions are:
+| Stem | Mapping | Example |
 | --- | --- | --- |
 |_náct:	 |x -> [1]*x+10, 	 |e.g. dvanáct is 12|
 |_cet:	 |x -> [10]*x+0, 	 |e.g. dvacet is 20|
@@ -24,7 +25,8 @@ The number functions are:
 |šedesát _:	 |x -> [1]*x+60, 	 |e.g. šedesát jedna is 61|
 |_desát:	 |x -> [10]*x+0, 	 |e.g. sedmdesát is 70|
 |_desát _:	 |x -> [10, 1]*x+0, 	 |e.g. sedmdesát jedna is 71|
-devadesát _:	 x -> [1]*x+90, 	 e.g. devadesát jedna is 91
+|devadesát _:	 |x -> [1]*x+90, 	 |e.g. devadesát jedna is 91|
+
 sto _:	 x -> [1]*x+100, 	 e.g. sto jedna is 101
 dvěstě _:	 x -> [1]*x+200, 	 e.g. dvěstě jedna is 201
 _sta:	 x -> [100]*x+0, 	 e.g. třista is 300
