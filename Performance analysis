@@ -23,7 +23,7 @@ The number functions are:
 |_cet _:	 |x -> [10, 1]*x+0, 	 |e.g. dvacet jedna is 21|
 |padesát _:	 |x -> [1]*x+50, 	 |e.g. padesát jedna is 51|
 |šedesát _:	 |x -> [1]*x+60, 	 |e.g. šedesát jedna is 61|
-|_desát:	 |x -> [10]*x+0, 	 |e.g. sedmdesát is 70|
+|_desát	 |x -> [10]*x+0, 	 |e.g. sedmdesát is 70|
 |_desát _:	 |x -> [10, 1]*x+0, 	 |e.g. sedmdesát jedna is 71|
 |devadesát _:	 |x -> [1]*x+90, 	 |e.g. devadesát jedna is 91|
 
