@@ -1,5 +1,0 @@
-markdown.markdown(lines, extensions=['tables'])
-
-| Syntax      | Description |
-| ----------- | ----------- || Header      | Title       |
-| Paragraphwlrgöengöneperpgergpon   | Text        |
