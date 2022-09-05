@@ -18,9 +18,10 @@ cz has 17 number functions and 20 irreducible numbers.
 The number functions are:
 
 | Stem | Mapping | Example |
-| :----------- | :------------ | :----------- |
-|_náct:	 |x -> [1]*x+10, 	 |e.g. dvanáct is 12|
-|_cet:	 |x -> [10]*x+0, 	 |e.g. dvacet is 20|
+|:-----------|:------------|:-----------|
+|_náct:|x -> [1]*x+10,|e.g. dvanáct is 12|
+|_cet:|x -> [10]*x+0,:|e.g. dvacet is 20|
+
 |_cet _:	 |x -> [10, 1]*x+0, 	 |e.g. dvacet jedna is 21|
 |padesát _:	 |x -> [1]*x+50, 	 |e.g. padesát jedna is 51|
 |šedesát _:	 |x -> [1]*x+60, 	 |e.g. šedesát jedna is 61|
