@@ -1,5 +1,7 @@
 # Numeral-decomposer-1.0
 
+For testing, use the Numeral-decomposer-1.1, it contains also this version. https://github.com/ikmMaierBTUCS/Numeral-Decomposer-1.1
+
 We present a performance analysis of a numeral decomposer.
 
 From the languages accessible in https://www.languagesandnumbers.com/site-map/en/ we parsed all numerals up to 1000, and from the languages accesible in https://pypi.org/project/num2words/ we parsed numerals up to 1000 and a sample of numerals up to 27206.
